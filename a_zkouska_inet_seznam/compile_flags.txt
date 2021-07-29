@@ -1,0 +1,3 @@
+-IC:\Users\milan\Desktop\Mega\codeline programi\Skola_ukoly\a_zkouska_inet_seznam
+-target
+x86_64-pc-cygwin
