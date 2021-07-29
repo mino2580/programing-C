@@ -1,0 +1,7 @@
+Vector test program
+Zadejte prosim vychozi velikost pole a velikost prirustku.
+Velikost:
+Prirustek:
+myMalloc: prideluji 32 bajtu, celkove prideleno 32 bajtu
+myFree: uvolnuji 32 bajtu, celkove prideleno 0 bajtu
+Nepodarilo se alokovat pamet pro vektor.

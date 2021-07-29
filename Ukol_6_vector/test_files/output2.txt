@@ -1,0 +1,161 @@
+Vector test program
+Zadejte prosim vychozi velikost pole a velikost prirustku.
+Velikost:
+Prirustek:
+myMalloc: prideluji 32 bajtu, celkove prideleno 32 bajtu
+myMalloc: prideluji 80 bajtu, celkove prideleno 112 bajtu
+myRealloc: prideluji 80 bajtu, celkove prideleno 192 bajtu
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezeni pozice prvku
+7 pro vycisteni vektoru
+8 pro vyplneni casti vektoru predanou hodnotou
+9 pro vytvoreni kopie vektoru
+0 pro vypsani jednoho prvku
+cokoli jineho pro konec.
+myFree: uvolnuji 160 bajtu, celkove prideleno 32 bajtu
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezeni pozice prvku
+7 pro vycisteni vektoru
+8 pro vyplneni casti vektoru predanou hodnotou
+9 pro vytvoreni kopie vektoru
+0 pro vypsani jednoho prvku
+cokoli jineho pro konec.
+Vlozte hodnotu prvku:
+myRealloc: prideluji 80 bajtu, celkove prideleno 112 bajtu
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezeni pozice prvku
+7 pro vycisteni vektoru
+8 pro vyplneni casti vektoru predanou hodnotou
+9 pro vytvoreni kopie vektoru
+0 pro vypsani jednoho prvku
+cokoli jineho pro konec.
+Vlozte hodnotu prvku:
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezeni pozice prvku
+7 pro vycisteni vektoru
+8 pro vyplneni casti vektoru predanou hodnotou
+9 pro vytvoreni kopie vektoru
+0 pro vypsani jednoho prvku
+cokoli jineho pro konec.
+Vlozte hodnotu prvku:
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezeni pozice prvku
+7 pro vycisteni vektoru
+8 pro vyplneni casti vektoru predanou hodnotou
+9 pro vytvoreni kopie vektoru
+0 pro vypsani jednoho prvku
+cokoli jineho pro konec.
+Vlozte hodnotu prvku:
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezeni pozice prvku
+7 pro vycisteni vektoru
+8 pro vyplneni casti vektoru predanou hodnotou
+9 pro vytvoreni kopie vektoru
+0 pro vypsani jednoho prvku
+cokoli jineho pro konec.
+vector[0]: 15
+vector[1]: 8
+vector[2]: 66
+vector[3]: 0
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezeni pozice prvku
+7 pro vycisteni vektoru
+8 pro vyplneni casti vektoru predanou hodnotou
+9 pro vytvoreni kopie vektoru
+0 pro vypsani jednoho prvku
+cokoli jineho pro konec.
+Delka vektoru: 4
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezeni pozice prvku
+7 pro vycisteni vektoru
+8 pro vyplneni casti vektoru predanou hodnotou
+9 pro vytvoreni kopie vektoru
+0 pro vypsani jednoho prvku
+cokoli jineho pro konec.
+Zadejte hodnotu hledaneho prvku:
+Zadejte pocatecni index hledani:
+Pozice prvku: 0
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezeni pozice prvku
+7 pro vycisteni vektoru
+8 pro vyplneni casti vektoru predanou hodnotou
+9 pro vytvoreni kopie vektoru
+0 pro vypsani jednoho prvku
+cokoli jineho pro konec.
+Zadejte hodnotu hledaneho prvku:
+Zadejte pocatecni index hledani:
+Pozice prvku: -1
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezeni pozice prvku
+7 pro vycisteni vektoru
+8 pro vyplneni casti vektoru predanou hodnotou
+9 pro vytvoreni kopie vektoru
+0 pro vypsani jednoho prvku
+cokoli jineho pro konec.
+myFree: uvolnuji 80 bajtu, celkove prideleno 32 bajtu
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezeni pozice prvku
+7 pro vycisteni vektoru
+8 pro vyplneni casti vektoru predanou hodnotou
+9 pro vytvoreni kopie vektoru
+0 pro vypsani jednoho prvku
+cokoli jineho pro konec.
+Konec souboru, koncime.
+Uvolnuji vsechnu pridelenou pamet.
+myFree: uvolnuji 32 bajtu, celkove prideleno 0 bajtu
+Vsechna pridelena pamet byla uvolnena.

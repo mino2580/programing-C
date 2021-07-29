@@ -1,0 +1,5 @@
+Vector test program
+Zadejte prosim vychozi velikost pole a velikost prirustku.
+Velikost:
+Prirustek:
+Konec souboru, koncime.

@@ -1,0 +1,60 @@
+List test program
+Zadejte pismeno 0-A pro jednu z nasledujicich cinnosti:
+0: Init,
+1: Actualize,
+2: Insert_First,
+3: First,
+4: Copy_First,
+5: Delete_First,
+6: Post_Delete,
+7: Post_Insert,
+8: Copy,
+9: Succ,
+A: Is_Active,
+M: Vypis menu
+CTRL+Z (Win) nebo CTRL+D (Unix): Konec programu
+Vase volba=0
+Init - inicializace seznamu
+Aktivni polozka:
+NULL
+Obsah seznamu:
+
+Zadejte znak 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Konec, M=Menu:
+************************************************************
+Vase volba=2
+Insert_First - vlozeni nove polozky na 1. misto seznamu
+Zadejte jmeno osoby: Zadejte vek, vahu a vysku (oddelene Enter):
+myMalloc: prideluji 288 bajtu, celkove prideleno 288 bajtu
+Aktivni polozka:
+NULL
+Obsah seznamu:
+1. prvek: Jmeno=Franta, vek=40.0, vaha=80.0, vyska=180.0
+
+Zadejte znak 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Konec, M=Menu:
+************************************************************
+Vase volba=2
+Insert_First - vlozeni nove polozky na 1. misto seznamu
+Zadejte jmeno osoby: Zadejte vek, vahu a vysku (oddelene Enter):
+myMalloc: prideluji 288 bajtu, celkove prideleno 576 bajtu
+Aktivni polozka:
+NULL
+Obsah seznamu:
+1. prvek: Jmeno=Pepa, vek=30.0, vaha=70.0, vyska=170.0
+2. prvek: Jmeno=Franta, vek=40.0, vaha=80.0, vyska=180.0
+
+Zadejte znak 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Konec, M=Menu:
+************************************************************
+Vase volba=2
+Insert_First - vlozeni nove polozky na 1. misto seznamu
+Zadejte jmeno osoby: Zadejte vek, vahu a vysku (oddelene Enter):
+Konec souboru, koncime.
+Aktivni polozka:
+NULL
+Obsah seznamu:
+1. prvek: Jmeno=Pepa, vek=30.0, vaha=70.0, vyska=170.0
+2. prvek: Jmeno=Franta, vek=40.0, vaha=80.0, vyska=180.0
+
+Zadejte znak 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Konec, M=Menu:
+************************************************************
+myFree: uvolnuji 288 bajtu, celkove prideleno 288 bajtu
+myFree: uvolnuji 288 bajtu, celkove prideleno 0 bajtu
