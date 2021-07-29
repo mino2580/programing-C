@@ -1,0 +1,3 @@
+-IC:\Users\milan\Desktop\Mega\codeline programi\Skola_ukoly\binarny_strom_zkouska
+-target
+x86_64-pc-cygwin

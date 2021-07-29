@@ -1,0 +1,3 @@
+-IC:\Users\milan\Desktop\Mega\codeline programi\Skola_ukoly\Binarni_vyhledavaci_strom
+-target
+x86_64-pc-cygwin
