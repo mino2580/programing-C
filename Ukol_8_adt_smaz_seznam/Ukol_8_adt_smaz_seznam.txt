@@ -1,0 +1,1 @@
+./Debug/main.c.o ./Debug/data.c.o ./Debug/list.c.o ./Debug/ioutils.c.o ./Debug/mymalloc.c.o   
