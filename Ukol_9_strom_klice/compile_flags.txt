@@ -1,0 +1,3 @@
+-IC:\Users\milan\Desktop\Mega\codeline programi\Skola_ukoly\Ukol_9_strom_klice
+-target
+x86_64-pc-cygwin
